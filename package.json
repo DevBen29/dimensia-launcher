@@ -42,6 +42,7 @@
     "winreg": "^1.2.4"
   },
   "devDependencies": {
+    "cli-truncate": "3.1.0",
     "electron": "^20.1.1",
     "electron-builder": "^23.3.3",
     "eslint": "^8.23.0"
